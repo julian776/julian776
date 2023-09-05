@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julián Álvarez Zuluaga</h1>
 <h3 align="center">I am a passionate backend developer from Colombia who loves developing innovative solutions and thrives on continuous learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=julian776&label=Profile%20views&color=0e75b6&style=flat" alt="julian776" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julian776" alt="julian776" /></a> </p>
-
 - 🔭 I’m currently working on [Sofka Technologies](https://www.sofka.com.co/)
 
 - 🌱 I’m currently learning **AI with LangChain and Golang**
