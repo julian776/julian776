@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Julián Álvarez Zuluaga</h1>
-<h3 align="center">I am a passionate backend developer from Colombia who loves developing innovative solutions and thrives on continuous learning.</h3>
+<h3 align="center">I am a passionate backend developer from Colombia who loves developing innovative solutions and loves continuous learning.</h3>
 
 - 🔭 I’m currently working on [Sofka Technologies](https://www.sofka.com.co/)
 
-- 🌱 I’m currently learning **AI with LangChain and Golang**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/julian776](https://github.com/julian776)
 
-- 💬 Ask me about **Golang**
+- 💬 Ask me about **Anything you think I can help you with**
 
 - 📫 How to reach me **juliancamiloalvarez77@gmail.com**
 
