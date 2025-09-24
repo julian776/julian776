@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julián Álvarez Zuluaga</h1>
 <h3 align="center">I am a passionate backend developer from Colombia who loves developing innovative solutions and loves continuous learning.</h3>
 
-- 🔭 I’m currently working on [Sofka Technologies](https://www.sofka.com.co/)
+- 🔭 I’m currently working on [Attention](https://www.attention.com)
 
 - 🌱 I’m currently learning **Golang**
 
