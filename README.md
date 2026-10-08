@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [https://github.com/julian776]([https://github.com/julian776](https://github.com/julian776?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/julian776]([https://github.com/julian776](https://github.com/julian776?tab=repositories)
 
 - 💬 Ask me about **Anything you think I can help you with**
 
